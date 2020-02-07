@@ -69,7 +69,7 @@
 	},
 	"TWO": {
 	  "name": "Cloud of Generosity",
-	  "desc": "Everything you ever wanted but were never able to get lies before you. ",
+	  "desc": "Everything you ever wanted but were never able to get lies before you. Your dream house, clothes, wings, etc. And look! Everyone here has the same so there is no need to feel guilty for finally enjoying yourself and all your new stuff.",
 	  "exits": [
 		{
 		  "exit": "ONE",

@@ -22,7 +22,7 @@ def load_files():
 
 def render(game,current):
     c = game[current]
-    print("You are in the" + c["name"])
+    print("You are in the " + c["name"])
     print(c["desc"])
 
 def get_input():
