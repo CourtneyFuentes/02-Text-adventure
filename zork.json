@@ -1,215 +1,280 @@
 {
 	"START": {
-		"name": "Entry Cloud of Heaven",
-		"desc": "Here's a key that will take you to any of the seven clouds of Heaven.",
-		"exits": [{
-			"exit": "ONE",
-			"target": "ONE"
-		}, {
-			"exit": "TWO",
-			"target": "TWO"
-		}, {
-			"exit": "THREE",
-			"target": "THREE"
-		}, {
-			"exit": "FOUR",
-			"target": "FOUR"
-		}, {
-			"exit": "FIVE",
-			"target": "FIVE"
-		}, {
-			"exit": "SIX",
-			"target": "SIX"
-		}, {
-			"exit": "SEVEN",
-			"target": "SEVEN"
-		}]
+	  "name": "Entry Cloud of Heaven",
+	  "desc": "Here's a key that will take you to any of the seven clouds of Heaven.",
+	  "exits": [
+		{
+		  "exit": "ONE",
+		  "target": "ONE"
+		},
+		{
+		  "exit": "TWO",
+		  "target": "TWO"
+		},
+		{
+		  "exit": "THREE",
+		  "target": "THREE"
+		},
+		{
+		  "exit": "FOUR",
+		  "target": "FOUR"
+		},
+		{
+		  "exit": "FIVE",
+		  "target": "FIVE"
+		},
+		{
+		  "exit": "SIX",
+		  "target": "SIX"
+		},
+		{
+		  "exit": "SEVEN",
+		  "target": "SEVEN"
+		}
+	  ]
 	},
 	"ONE": {
-		"name": "Cloud of Virtue",
-		"desc": "You see a table that goes as far as the eye can see. A feast! With every type of food imaginable. Your loved ones that have passed are all seated next to an empty wooden chair, with your name engraved in the back. ",
-		"exits": [{
-			"exit": "ONE",
-			"target": "ONE"
-		}, {
-			"exit": "TWO",
-			"target": "TWO"
-		}, {
-			"exit": "THREE",
-			"target": "THREE"
-		}, {
-			"exit": "FOUR",
-			"target": "FOUR"
-		}, {
-			"exit": "FIVE",
-			"target": "FIVE"
-		}, {
-			"exit": "SIX",
-			"target": "SIX"
-		}, {
-			"exit": "SEVEN",
-			"target": "SEVEN"
-		}]
-		
+	  "name": "Cloud of Virtue",
+	  "desc": "You see a table that goes as far as the eye can see. A feast! With every type of food imaginable. Your loved ones that have passed are all seated next to an empty wooden chair, with your name engraved in the back. ",
+	  "exits": [
+		{
+		  "exit": "ONE",
+		  "target": "ONE"
+		},
+		{
+		  "exit": "TWO",
+		  "target": "TWO"
+		},
+		{
+		  "exit": "THREE",
+		  "target": "THREE"
+		},
+		{
+		  "exit": "FOUR",
+		  "target": "FOUR"
+		},
+		{
+		  "exit": "FIVE",
+		  "target": "FIVE"
+		},
+		{
+		  "exit": "SIX",
+		  "target": "SIX"
+		},
+		{
+		  "exit": "SEVEN",
+		  "target": "SEVEN"
+		}
+	  ]
 	},
 	"TWO": {
-		"name": "Cloud of Generosity",
-		"desc": "Everything you ever wanted but were never able to get lies before you. ",
-		"exits": [{
-			"exit": "ONE",
-			"target": "ONE"
-		}, {
-			"exit": "TWO",
-			"target": "TWO"
-		}, {
-			"exit": "THREE",
-			"target": "THREE"
-		}, {
-			"exit": "FOUR",
-			"target": "FOUR"
-		}, {
-			"exit": "FIVE",
-			"target": "FIVE"
-		}, {
-			"exit": "SIX",
-			"target": "SIX"
-		}, {
-			"exit": "SEVEN",
-			"target": "SEVEN"
-		}],
-		"items": []
+	  "name": "Cloud of Generosity",
+	  "desc": "Everything you ever wanted but were never able to get lies before you. ",
+	  "exits": [
+		{
+		  "exit": "ONE",
+		  "target": "ONE"
+		},
+		{
+		  "exit": "TWO",
+		  "target": "TWO"
+		},
+		{
+		  "exit": "THREE",
+		  "target": "THREE"
+		},
+		{
+		  "exit": "FOUR",
+		  "target": "FOUR"
+		},
+		{
+		  "exit": "FIVE",
+		  "target": "FIVE"
+		},
+		{
+		  "exit": "SIX",
+		  "target": "SIX"
+		},
+		{
+		  "exit": "SEVEN",
+		  "target": "SEVEN"
+		}
+	  ],
+	  "items": []
 	},
 	"THREE": {
-		"name": "Cloud of Righteousness",
-		"desc": "Angels playing the harp are found throughout this dream spa. The view is like nothing you've ever seen. There's massage tables, mud baths, steam rooms, etc. There is even a section just for you, filled with everything you found most relaxing on Earth.",
-		"exits": [{
-			"exit": "ONE",
-			"target": "ONE"
-		}, {
-			"exit": "TWO",
-			"target": "TWO"
-		}, {
-			"exit": "THREE",
-			"target": "THREE"
-		}, {
-			"exit": "FOUR",
-			"target": "FOUR"
-		}, {
-			"exit": "FIVE",
-			"target": "FIVE"
-		}, {
-			"exit": "SIX",
-			"target": "SIX"
-		}, {
-			"exit": "SEVEN",
-			"target": "SEVEN"
-		}],
-		"items": []
+	  "name": "Cloud of Righteousness",
+	  "desc": "Angels playing the harp are found throughout this dream spa. The view is like nothing you've ever seen. There's massage tables, mud baths, steam rooms, etc. There is even a section just for you, filled with everything you found most relaxing on Earth.",
+	  "exits": [
+		{
+		  "exit": "ONE",
+		  "target": "ONE"
+		},
+		{
+		  "exit": "TWO",
+		  "target": "TWO"
+		},
+		{
+		  "exit": "THREE",
+		  "target": "THREE"
+		},
+		{
+		  "exit": "FOUR",
+		  "target": "FOUR"
+		},
+		{
+		  "exit": "FIVE",
+		  "target": "FIVE"
+		},
+		{
+		  "exit": "SIX",
+		  "target": "SIX"
+		},
+		{
+		  "exit": "SEVEN",
+		  "target": "SEVEN"
+		}
+	  ],
+	  "items": []
 	},
 	"FOUR": {
-		"name": "Cloud of Life",
-		"desc": "In the blink of an eye you see every living thing that has ever existed. From plants to animals, even the extinct ones! It's oddly peaceful. On Earth if a cheetah was next to a penguin it would most likely attempt to eat it for dinner. Here, everything is peaceful and friendly, especially to you. You're even able to hear what each animal is thinking if you concentrate.",
-		"exits": [{
-			"exit": "ONE",
-			"target": "ONE"
-		}, {
-			"exit": "TWO",
-			"target": "TWO"
-		}, {
-			"exit": "THREE",
-			"target": "THREE"
-		}, {
-			"exit": "FOUR",
-			"target": "FOUR"
-		}, {
-			"exit": "FIVE",
-			"target": "FIVE"
-		}, {
-			"exit": "SIX",
-			"target": "SIX"
-		}, {
-			"exit": "SEVEN",
-			"target": "SEVEN"
-		}],
-		"items": []
+	  "name": "Cloud of Life",
+	  "desc": "In the blink of an eye you see every living thing that has ever existed. From plants to animals, even the extinct ones! It's oddly peaceful. On Earth if a cheetah was next to a penguin it would most likely attempt to eat it for dinner. Here, everything is peaceful and friendly, especially to you. You're even able to hear what each animal is thinking if you concentrate.",
+	  "exits": [
+		{
+		  "exit": "ONE",
+		  "target": "ONE"
+		},
+		{
+		  "exit": "TWO",
+		  "target": "TWO"
+		},
+		{
+		  "exit": "THREE",
+		  "target": "THREE"
+		},
+		{
+		  "exit": "FOUR",
+		  "target": "FOUR"
+		},
+		{
+		  "exit": "FIVE",
+		  "target": "FIVE"
+		},
+		{
+		  "exit": "SIX",
+		  "target": "SIX"
+		},
+		{
+		  "exit": "SEVEN",
+		  "target": "SEVEN"
+		}
+	  ],
+	  "items": []
 	},
 	"FIVE": {
-		"name": "Cloud of Glory",
-		"desc": "All your loved ones who have passed are here to greet you, including your old pets. From here you can look through magical windows to check up on those still alive on Earth.",
-		"exits": [{
-			"exit": "ONE",
-			"target": "ONE"
-		}, {
-			"exit": "TWO",
-			"target": "TWO"
-		}, {
-			"exit": "THREE",
-			"target": "THREE"
-		}, {
-			"exit": "FOUR",
-			"target": "FOUR"
-		}, {
-			"exit": "FIVE",
-			"target": "FIVE"
-		}, {
-			"exit": "SIX",
-			"target": "SIX"
-		}, {
-			"exit": "SEVEN",
-			"target": "SEVEN"
-		}],
-		"items": []
+	  "name": "Cloud of Glory",
+	  "desc": "All your loved ones who have passed are here to greet you, including your old pets. From here you can look through magical windows to check up on those still alive on Earth.",
+	  "exits": [
+		{
+		  "exit": "ONE",
+		  "target": "ONE"
+		},
+		{
+		  "exit": "TWO",
+		  "target": "TWO"
+		},
+		{
+		  "exit": "THREE",
+		  "target": "THREE"
+		},
+		{
+		  "exit": "FOUR",
+		  "target": "FOUR"
+		},
+		{
+		  "exit": "FIVE",
+		  "target": "FIVE"
+		},
+		{
+		  "exit": "SIX",
+		  "target": "SIX"
+		},
+		{
+		  "exit": "SEVEN",
+		  "target": "SEVEN"
+		}
+	  ],
+	  "items": []
 	},
 	"SIX": {
-		"name": "Cloud of Integrity",
-		"desc": "God's angels rest here. If you feel as though your work on Earth isn't finished yet you may train to become a Guardian Angel.",
-		"exits": [{
-			"exit": "ONE",
-			"target": "ONE"
-		}, {
-			"exit": "TWO",
-			"target": "TWO"
-		}, {
-			"exit": "THREE",
-			"target": "THREE"
-		}, {
-			"exit": "FOUR",
-			"target": "FOUR"
-		}, {
-			"exit": "FIVE",
-			"target": "FIVE"
-		}, {
-			"exit": "SIX",
-			"target": "SIX"
-		}, {
-			"exit": "SEVEN",
-			"target": "SEVEN"
-		}],
-		
-	"SEVEN": {
-		"name": "Cloud of God",
-		"desc": "God resides here. Guardian Angels are often flying in and out to receive missions.",
-		"exits": [{
-			"exit": "ONE",
-			"target": "ONE"
-		}, {
-			"exit": "TWO",
-			"target": "TWO"
-		}, {
-			"exit": "THREE",
-			"target": "THREE"
-		}, {
-			"exit": "FOUR",
-			"target": "FOUR"
-		}, {
-			"exit": "FIVE",
-			"target": "FIVE"
-		}, {
-			"exit": "SIX",
-			"target": "SIX"
-		}, {
-			"exit": "SEVEN",
-			"target": "SEVEN"
-		}]
+	  "name": "Cloud of Integrity",
+	  "desc": "God's angels rest here. If you feel as though your work on Earth isn't finished yet you may train to become a Guardian Angel.",
+	  "exits": [
+		{
+		  "exit": "ONE",
+		  "target": "ONE"
+		},
+		{
+		  "exit": "TWO",
+		  "target": "TWO"
+		},
+		{
+		  "exit": "THREE",
+		  "target": "THREE"
+		},
+		{
+		  "exit": "FOUR",
+		  "target": "FOUR"
+		},
+		{
+		  "exit": "FIVE",
+		  "target": "FIVE"
+		},
+		{
+		  "exit": "SIX",
+		  "target": "SIX"
+		},
+		{
+		  "exit": "SEVEN",
+		  "target": "SEVEN"
+		}
+	  ],
+	  "items": []
 	},
-	
+	"SEVEN": {
+	  "name": "Cloud of God",
+	  "desc": "God resides here. Guardian Angels are often flying in and out to receive missions.",
+	  "exits": [
+		{
+		  "exit": "ONE",
+		  "target": "ONE"
+		},
+		{
+		  "exit": "TWO",
+		  "target": "TWO"
+		},
+		{
+		  "exit": "THREE",
+		  "target": "THREE"
+		},
+		{
+		  "exit": "FOUR",
+		  "target": "FOUR"
+		},
+		{
+		  "exit": "FIVE",
+		  "target": "FIVE"
+		},
+		{
+		  "exit": "SIX",
+		  "target": "SIX"
+		},
+		{
+		  "exit": "SEVEN",
+		  "target": "SEVEN"
+		}
+	  ],
+	  "items": []
+	}
+  }
