@@ -13,8 +13,7 @@ def load_files():
     try:
         __location__ = os.path.realpath(os.path.join(os.getcwd(), os.path.dirname(__file__)))
         with open(os.path.join(__location__, game_file)) as json_file: game = json.load(json_file)
-        with open(os.path.join(__location__, item_file)) as json_file: items = json.load(json_file)
-        return (game,items)
+        return game
     except:
         print("There was a problem reading either the game or item file.")
         os._exit(1)
@@ -43,7 +42,7 @@ def main():
     current = 'START'  # The starting location
     end_game = ['END']  # Any of the end-game locations
 
-    (game) = load_files()
+    game = load_files()
 
     
     while True:
